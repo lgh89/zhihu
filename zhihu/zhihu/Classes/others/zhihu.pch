@@ -1,0 +1,18 @@
+//
+//  zhihu.pch
+//  zhihu
+//
+//  Created by lgh on 16/9/10.
+//  Copyright © 2016年 lgh. All rights reserved.
+//
+
+#ifndef zhihu_pch
+#define zhihu_pch
+
+#import "UIView+Extension.h"
+#import "Const.h"
+
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+
+#endif
